@@ -1,3 +1,3 @@
 # 10240
 
-[Play it here!](http://mjshein.github.io/10240)
+[Play it here!](http://mjshein.github.io/play10240)
